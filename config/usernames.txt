@@ -293,7 +293,6 @@ Motaman-M
 aboualine
 HannerB
 sauruvibes
-mikemaz-dev
 ToyLess78
 DavoudMolaei
 iiwoii
@@ -358,7 +357,6 @@ jhonatanseminario
 jozef-javorsky-dodo
 Rickmwasofficial
 matthewPendergast
-getintogit1
 AhmetUtkuPelen
 marciomrd
 KhaledSaeed18
@@ -505,7 +503,6 @@ shadowy-pycoder
 Alitindrawan24
 ai-in-pm
 mike-liuliu
-IshmamAbir
 silicia-apps
 peta-byte
 choiis
@@ -7838,7 +7835,6 @@ Blueberryy
 mtfhx
 CDTN2015
 Lutra-Fs
-ravizhan
 fatinghenji
 MElody9120
 Cherrling
@@ -9294,7 +9290,6 @@ JJJAM
 kmlupreti
 cctvai
 jjhny2a
-NamesMT
 euamotubaina
 ChangeHow
 UniqueDing
@@ -13025,7 +13020,6 @@ passbyval
 Sagar133
 Jobinsteephen
 Cupnfish
-amjadjibon
 BabyHalimao
 creador-dev
 sadekmehri
@@ -36653,7 +36647,6 @@ knziiy
 varunhorril
 stphn4
 micrommer
-asif256000
 mhsattarian
 3vilWind
 sohel473
@@ -42998,7 +42991,6 @@ chrisrodrigue
 marquez5g
 daler-api
 ykhnbbszd
-Almas-Ali
 Chris-Zen-K
 SargunNarula
 eifsy1985
@@ -50219,7 +50211,6 @@ luisangellopezatencio
 Mktulio
 Kbarcas23
 Gennadii87
-dmkjfs
 Chandan9898Kumar
 EiseWilliam
 bakecog
@@ -52480,7 +52471,6 @@ akm
 snaka
 jrafanie
 andrewjanssen
-pboling
 n0ts
 banyan
 LBRapid
@@ -68533,7 +68523,6 @@ lawalTheWest
 JavaidAhmadKhan
 mxmnk
 jeyhunjeyhunzade
-ayoubgm
 henrique-bardella
 ikisuke
 amilamen
@@ -72960,7 +72949,6 @@ lucakim27
 rufatkiu
 The-Young-Programer
 rdh59320
-zakarialaoui10
 kyoyacchi
 behradbhrmi
 BedirhanGurler
@@ -76810,7 +76798,6 @@ awaiswaheed321
 Joseph-01
 Ghileors
 Richard-Ducteil
-Ripwords
 laststonedjs
 GandyA23
 orvil1026
@@ -92322,7 +92309,6 @@ davetrud
 runforu
 flzyup
 whitesheep
-mhaligowski
 farleylai
 fprochazka
 Newky
@@ -93232,7 +93218,6 @@ seanly
 JohnMarkR
 simars
 TonyAsche
-pptpb
 nugroho
 aelam
 oden
@@ -93600,7 +93585,6 @@ DBozhinovski
 ysoyipek
 debghosh
 cbarrick
-oztc
 tatiana
 reinhardt1053
 bojoer
@@ -93850,7 +93834,6 @@ Mutsuki
 croddin
 mohjak
 anphu
-tmedetbekov
 exekias
 jwillians
 tusooa
@@ -94160,7 +94143,6 @@ adrianomelo
 wesm
 benjaminfreva
 DamnWidget
-thegbk
 mpilon
 vitalbh
 scebotari66
@@ -94434,7 +94416,6 @@ sanmaowang
 s3tjan
 chawarong
 gumpcha
-juanodicio
 mawkor2
 izibazi
 uxcode1
@@ -94609,7 +94590,6 @@ dot-Sean
 rvazquezglez
 richardwooding
 Taehun
-averna-syd
 kylingood
 RusAlex
 maxrosan
@@ -94761,7 +94741,6 @@ dtoebe
 firecodeman
 amarques
 ftartaggia
-sudo-bgnz
 cainanyang
 christopherm00
 fjordan
@@ -95136,7 +95115,6 @@ pantadeusz
 yeojz
 Shmee007
 rafikk
-d33pfri3d
 japerr
 ismaild
 shreeshga
@@ -96068,4 +96046,3 @@ Heisenberg
 nibin
 abhishekmunie
 ARR4N
-ikramagix
