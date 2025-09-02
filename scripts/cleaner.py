@@ -1,11 +1,15 @@
 # cleaner.py
 #!/usr/bin/env python3
 import sys
-from pathlib import Path
+import pathlib
 from datetime import datetime
 
-def main():
-    base_dir      = Path(__file__).parent.parent
+def clean_usernames():
+    base_dir = pathlib.Path(__file__).parents[1]
+
+    if base_dir.joinpath(".git") not in base_dir.glob(".git"):
+        sys.exit(f"Error: Please run the script from the project root directory.")
+
     username_path = base_dir / "config" / "usernames.txt"
     log_dir       = base_dir / "logs" / "cleaner"
     log_dir.mkdir(parents=True, exist_ok=True)
@@ -44,4 +48,4 @@ def main():
         print("[INFO] No duplicates found.")
 
 if __name__ == "__main__":
-    main()
+    clean_usernames()
