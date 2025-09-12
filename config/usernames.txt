@@ -52,6 +52,7 @@ freakynit
 xinxingwu-uk
 sedegah
 h4rldev
+LukasPietzschmann
 ikramagix
 gr33kurious
 esin
@@ -56214,7 +56215,6 @@ gsoni22
 cjgetty
 m10088
 JoseBaezG
-nickgarlis
 joshualiu
 MoKhajavi75
 jacksonbjames
@@ -57904,7 +57904,6 @@ irfanandriansyah1997
 Sarvesh-Kesharwani
 LuisPaGarcia
 huiminsuper
-fratzinger
 henrikvtcodes
 stefb965
 IshantL
